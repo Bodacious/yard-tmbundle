@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@author ${1:Name}</string>
+	<string>@author Gavin Morrice</string>
 	<key>name</key>
-	<string>Author</string>
+	<string>Auth</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>author</string>
+	<string>auth</string>
 	<key>uuid</key>
-	<string>3741FD89-32A7-4F23-8639-4043B17B3412</string>
+	<string>E9F9328F-A952-43A8-BC7D-53C955BB4080</string>
 </dict>
 </plist>

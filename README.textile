@@ -1,10 +1,11 @@
-h4. Project Description
+# Project Description
 
 TextMate Bundle for writing YARD style documentation for ruby scripts
 
-h4. Snippets
+## Snippets
 
   * ##      - Starts documentation
+  * option  - @option
   * param   - @param
   * since   - @since
   * version - @version
