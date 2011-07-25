@@ -29,7 +29,7 @@ To install via Git:
 
 Source can be viewed or forked via GitHub: [https://github.com/Bodacious/yard-tmbundle](https://github.com/Bodacious/yard-tmbundle)
 
-h4. TODO
+### TODO
 
   * A tmLanguage
   * A tmCommand for regenerating the documentation and opening it in the browser
