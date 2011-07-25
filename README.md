@@ -16,6 +16,18 @@ TextMate Bundle for writing YARD style documentation for ruby scripts
   * yield   - @yield
   * return  - @return
   * depr    - @deprecated
+  
+Installation
+============
+
+To install via Git:
+
+    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+    cd ~/Library/Application\ Support/TextMate/Bundles
+    git clone git@github.com:Bodacious/yard-tmbundle.git "Yard.tmbundle"
+    osascript -e 'tell app "TextMate" to reload bundles'
+
+Source can be viewed or forked via GitHub: [https://github.com/Bodacious/yard-tmbundle](https://github.com/Bodacious/yard-tmbundle)
 
 h4. TODO
 
